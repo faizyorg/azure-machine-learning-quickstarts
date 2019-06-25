@@ -1,4 +1,4 @@
-# Technology overview
+# 1.7 Deployment of Automated Machine Learning Model
 
 ## Azure Machine Learning Python SDK
 
@@ -17,10 +17,10 @@ In this quickstart, you will start with a model that was trained using Automated
 
 ## Before you begin
 
-Confirm that you have completed quickstart: [quickstart-1.0](../../quickstart-1.0/azure-notebooks-setup) for Azure Notebooks before you begin.
+Confirm that you have completed quickstart: quickstart-1.0 for Azure Notebooks before you begin.
 
 ## Open Notebook for this Quickstart
-1. Within Azure Notebooks navigate to `aml-python-sdk->starter-artifacts->python-notebooks->07-aml-deployment`. 
-2. Open `deployment-with-AML.ipynb`. This is the Python notebook you will step thru executing in this lab.
+1. Within Azure Notebooks navigate to **`aml-python-sdk->starter-artifacts->python-notebooks->07-aml-deployment`**. 
+2. Open **`deployment-with-AML.ipynb`**. This is the Python notebook you will step thru executing in this lab.
 
 ### Follow the instructions within the notebook to complete the lab
