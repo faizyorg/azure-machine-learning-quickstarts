@@ -1,6 +1,5 @@
-# Technology overview
+# 1.6 Model Interpretability with Azure Machine Learning
 
-## Model interpretability with Azure Machine Learning service
 Machine learning interpretability is important in two phases of machine learning development cycle:
 
 * During training: Model designers and evaluators require interpretability tools to explain the output of a model to stakeholders to build trust. They also need insights into the model so that they can debug the model and make decisions on whether the behavior matches their objectives. Finally, they need to ensure that the model is not biased.
@@ -15,10 +14,10 @@ The primary goal of this quickstart is to explain the predictions made by our tr
 
 ## Before you begin
 
-Confirm that you have completed quickstart: [quickstart-1.0](../../quickstart-1.0/azure-notebook-vm-setup) for Azure Notebook VMs before you begin.
+Confirm that you have completed quickstart: quickstart-1.0 for Azure Notebook VMs before you begin.
 
 ## Open Notebook for this Quickstart
-1. Within Azure Notebook VM's Jupyter Notebooks interface navigate to `quick-starts->azure-machine-learning-quickstarts->aml-python-sdk->starter-artifacts->nbvm-notebooks->06-aml-interpretability`. 
-2. Open `interpretability-with-AML.ipynb`. This is the Python notebook you will step thru executing in this lab.
+1. Within Azure Notebook VM's Jupyter Notebooks interface navigate to **`quick-starts->azure-machine-learning-quickstarts->aml-python-sdk->starter-artifacts->nbvm-notebooks->06-aml-interpretability`**. 
+2. Open **`interpretability-with-AML.ipynb`**. This is the Python notebook you will step thru executing in this lab.
 
 ### Follow the instructions within the notebook to complete the lab
