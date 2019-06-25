@@ -1,5 +1,4 @@
-# Technology overview
-
+# 1.7 Deployment of Automated Machine Learning Model
 ## Azure Machine Learning Python SDK
 
 The [Azure Machine Learning Python SDK](https://docs.microsoft.com/en-us/python/api/overview/azure/ml/intro?view=azure-ml-py) provides a comprehensive set of a capabilities that you can use directly within a python notebook or python code including:
@@ -17,13 +16,13 @@ In this quickstart, you will start with a model that was trained using Automated
 
 ## Before you begin
 
-Confirm that you have completed quickstart: [quickstart-1.0](../../quickstart-1.0) for Visual Studio Code before you begin.
+Confirm that you have completed quickstart: quickstart-1.0 for Visual Studio Code before you begin.
 
 ### Open the starting Python file
-1. Start Visual Studio Code and open the folder: `07-aml-deployment`
-2. From within Visual Studio Code click on the starting python file: `deployment-with-AML.py`
-3. Confirm that you have setup `azure_automl` as your interpreter.
-4. `deployment-with-AML.py` is the Python file you will step thru executing in this lab.
-5. To execute each step click on `Run Cell` just above the block of code. 
+1. Start Visual Studio Code and open the folder: **`07-aml-deployment`**
+2. From within Visual Studio Code click on the starting python file: **`deployment-with-AML.py`**
+3. Confirm that you have setup **`azure_automl`** as your interpreter.
+4. **`deployment-with-AML.py`** is the Python file you will step thru executing in this lab.
+5. To execute each step click on **`Run Cell`** just above the block of code. 
 
 ### Follow the instructions within the python file to complete the lab
