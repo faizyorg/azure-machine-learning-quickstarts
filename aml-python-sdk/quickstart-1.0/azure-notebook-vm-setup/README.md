@@ -3,37 +3,26 @@
 
 At a high level, here are the setup tasks you will need to perform to prepare your Azure Notebook VM Environment (the detailed instructions follow):
 
-1. Create a Notebook VM in your Azure subscription
+1. Import the Quickstart Notebooks
 
-2. Import the Quickstart Notebooks
+2. Update your Notebook Environment 
 
-3. Update your Notebook Environment 
 
-## Task 1: Create a Notebook VM
+
+## Task 1: Import the Quickstart Notebooks
 
 1. Log into [Azure Portal](https://portal.azure.com/) and open the pre-deployed machine learning workspace: quick-starts-ws-XXXXX.
-2. Select **Notebook VMs** in the left navigation and then select **New**
+2. Select **Notebook VMs**
 
-   ![Select Create New Notebook VM in Azure Portal](images/01.png)
-
-3. Provide Name: `quick-starts-vm` and Virtual machine size: `STANDARD_D3_V2` and then select **Create**
-
-   ![Create New Notebook VM](images/02.png)
-  
-4. Wait for the VM to be ready, it will take around 5-10 minutes.
-
-
-## Task 2: Import the Quickstart Notebooks
-
-1. Select the Notebook VM: **quick-starts-vm** and then select **Jupyter** open icon, to open Jupyter Notebooks interface.
+3. Select the pre-created Notebook VM: **sandbox-XXXXX** and then select **Jupyter** open icon, to open Jupyter Notebooks interface.
 
    ![Open Jupyter Notebooks Interface](images/03.png)
 
-2. Select **New, Terminal** as shown to open the terminal page.
+4. Select **New, Terminal** as shown to open the terminal page.
 
    ![Open Terminal Page](images/04.png)
   
-3. Run the following commands in order in the terminal window:
+5. Run the following commands in order in the terminal window:
 
    a. `mkdir quick-starts`
    
@@ -46,7 +35,7 @@ At a high level, here are the setup tasks you will need to perform to prepare yo
    d. Wait for the import to complete.
 
 
-## Task 3: Update your Notebook Environment 
+## Task 2: Update your Notebook Environment 
 
 1.  From the Jupyter Notebooks interface, navigate to the `quick-starts->azure-machine-learning-quickstarts->aml-python-sdk->starter-artifacts->nbvm-notebooks` folder where you will find all your quickstart files.
 
