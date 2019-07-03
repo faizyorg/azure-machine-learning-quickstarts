@@ -11,7 +11,7 @@ At a high level, here are the setup tasks you will need to perform to prepare yo
 
 ## Task 1: Import the Quickstart Notebooks
 
-1. Log into [Azure Portal](https://portal.azure.com/) and open the pre-deployed machine learning workspace: quick-starts-ws-XXXXX.
+1. Log into [Azure Portal](https://portal.azure.com/) and open the pre-deployed machine learning workspace: **quick-starts-ws-XXXXX**.
 2. Select **Notebook VMs**
 
 3. Select the pre-created Notebook VM: **sandbox-XXXXX** and then select **Jupyter** open icon, to open Jupyter Notebooks interface.
