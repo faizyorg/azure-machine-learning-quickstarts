@@ -12,7 +12,7 @@ At a high level, here are the setup tasks you will need to perform to prepare yo
 
 ## Task 1: Create a Notebook VM
 
-1. Log into [Azure Portal](https://portal.azure.com/) and open the machine learning workspace: quick-starts-ws-XXXXX.
+1. Log into [Azure Portal](https://portal.azure.com/) and open the machine learning workspace: **quick-starts-ws-XXXXX**.
 
 2. Select **Notebook VMs** in the left navigation and then select **New**
 
