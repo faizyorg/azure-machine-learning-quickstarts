@@ -1,4 +1,5 @@
-# 1.1 Azure Machine Learning Pipelines
+# Quickstart 1.1
+# Azure Machine Learning Pipelines
 
 ## What are machine learning pipelines?
 Using [Azure Machine Learning SDK for Python](https://docs.microsoft.com/en-us/python/api/azureml-pipeline-core/?view=azure-ml-py), data scientists, data engineers, and IT professionals can collaborate on the steps involved in:
