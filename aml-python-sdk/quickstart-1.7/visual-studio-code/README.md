@@ -1,4 +1,5 @@
-# 1.7 Deployment of Automated Machine Learning Model
+# Quickstart 1.7
+# Deployment of Automated Machine Learning Model
 ## Azure Machine Learning Python SDK
 
 The [Azure Machine Learning Python SDK](https://docs.microsoft.com/en-us/python/api/overview/azure/ml/intro?view=azure-ml-py) provides a comprehensive set of a capabilities that you can use directly within a python notebook or python code including:
