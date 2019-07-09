@@ -1,4 +1,5 @@
-# 1.0 Setting up your environment
+# Quickstart 1.0 
+# Setting up your environment
 # Azure Notebook VMs Setup
 
 At a high level, here are the setup tasks you will need to perform to prepare your Azure Notebook VM Environment (the detailed instructions follow):
