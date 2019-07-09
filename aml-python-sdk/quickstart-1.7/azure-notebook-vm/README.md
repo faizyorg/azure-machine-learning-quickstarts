@@ -1,4 +1,5 @@
-# 1.7 Deployment of Automated Machine Learning Model
+# Quickstart 1.7
+# Deployment of Automated Machine Learning Model
 
 ## Azure Machine Learning Python SDK
 
