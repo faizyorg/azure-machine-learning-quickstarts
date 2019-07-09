@@ -1,4 +1,5 @@
-# 1.6 Model Interpretability with Azure Machine Learning
+# Quickstart 1.6
+# Model Interpretability with Azure Machine Learning
 
 Machine learning interpretability is important in two phases of machine learning development cycle:
 
